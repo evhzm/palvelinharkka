@@ -9,11 +9,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @Author: apple
- * @created on 30/04/2020
- * @Project is SpringSimpleTodo
- */
 @Entity
 @Data
 @NoArgsConstructor
